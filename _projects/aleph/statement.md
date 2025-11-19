@@ -22,17 +22,8 @@ Inspirada en la idea de una naturaleza espiritual, la obra propone un espacio tr
 donde esferas texturizadas y figuras geométricas rebotan y trazan huellas de luz sobre un fondo que nunca se detiene. 
 Cada interacción del usuario genera una nueva composición, dando lugar a un proceso visual impredecible y autónomo.
 
-La atmósfera sonora, junto con los tonos turquesa, celestes y azules, intentan aludir a la sensación de inmersión en un entorno 
-que equilibra tecnología y naturaleza, lo digital y lo orgánico. La eliminación del fondo permite que las estelas de movimiento permanezcan, 
-sugiriendo energía, tiempo y transformación: una pintura dinámica que se construye desde el azar controlado.
 
 **Desarrollo técnico, estético y conceptual**
-
-Aleph, nombre dado por Inke Arns cuando dice que "La palabra Aleph representa a Dios, o más genéricamente el poder creativo", 
-es una experiencia visual e interactiva que combina estética digital, performatividad y contemplación poética. 
-Inspirada en la idea de una naturaleza espiritual, la obra propone un espacio tridimensional flotante, 
-donde esferas texturizadas y figuras geométricas rebotan y trazan huellas de luz sobre un fondo que nunca se detiene. 
-Cada interacción del usuario genera una nueva composición, dando lugar a un proceso visual impredecible y autónomo.
 
 La atmósfera sonora, junto con los tonos turquesa, celestes y azules, intentan aludir a la sensación de inmersión en un entorno 
 que equilibra tecnología y naturaleza, lo digital y lo orgánico. La eliminación del fondo permite que las estelas de movimiento permanezcan, 
@@ -74,5 +65,6 @@ Arns, Inke. (2005). El código como acto de habla performativo. Artnodes, UOC.
 Casullo, Nicolás. (2003). La modernidad ilustrada. Buenos Aires: Paidós.
 
 Starset. (2017). Vessels-Álbum. Razor & Tie. 
+
 
 
